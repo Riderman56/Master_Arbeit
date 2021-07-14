@@ -5,4 +5,4 @@ rep.ipynb contains the codes to replicate all figures and tables.
 <br>
 If you want to run the code on your machine please search for '##user'
 <br>
-to find the lines where adjustments are needed or customization possible.
+to find the lines where adjustments are needed or customization is possible.
