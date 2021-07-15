@@ -8,5 +8,4 @@ install.packages('vars')
 install.packages("PerformanceAnalytics")
 install.packages('sessioninfo')
 library(sandwich)
-library(ggplot2)
 
