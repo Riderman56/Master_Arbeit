@@ -8,5 +8,5 @@ If you want to run the code on your machine please search for '##user'
 to find the lines where adjustments are needed or customization is possible.
 <br>
 <br>
-Use this linke to run the codes online or download the resository to run it locally. .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/Riderman56/Master_Arbeit/main?filepath=https%3A%2F%2Fgithub.com%2FRiderman56%2FMaster_Arbeit%2Fblob%2Fmain%2Frep.ipynb
+Use this linke to run the codes online or download the resository to run it locally.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Riderman56/Master_Arbeit/main?filepath=https%3A%2F%2Fgithub.com%2FRiderman56%2FMaster_Arbeit%2Fblob%2Fmain%2Frep.ipynb)
