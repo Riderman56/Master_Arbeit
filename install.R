@@ -1,1 +1,12 @@
+install.packages("readxl")
+install.packages('car')
+install.packages('multiwayvcov')
+install.packages("lmtest")
+install.packages("broom")
+install.packages('stargazer')
+install.packages('vars')
+install.packages("PerformanceAnalytics")
+install.packages('sessioninfo')
+library(sandwich)
+library(ggplot2)
 
