@@ -7,5 +7,5 @@ install.packages('stargazer')
 install.packages('vars')
 install.packages("PerformanceAnalytics")
 install.packages('sessioninfo')
-library(sandwich)
-
+install.packages('sandwich')
+install.packages('ggplot2')
